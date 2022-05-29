@@ -20,13 +20,11 @@ Made with Python3
 ### Mandatory Vars.
 
 - Some Of The Mandatory Vars Are :-
-   - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
-   - `API_HASH` :  Give API_HASH of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
-   - `STRING_NAME` :  Make a string session from [here](https://replit.com/@QueenArzoo/VCPlayBot)
-   - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
-   - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
-
-Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)]([https://replit.com/@QueenArzoo/VCPlayBot)](https://github.com/ritikrajput2002/VCPlayBot/edit/master/README.md)
+   - `API_ID` :  19074799
+   - `API_HASH` : 3cf7c4e90d86dd3af58e2de747dc363a
+   - `STRING_NAME` : BQCxOxzCQo42-0dztGEfOxhKZAJes_gU8pWHRc6BAcXPAu96UjzmtQcCBsWbFtSdwcEZyTpXOAxjqzBHXDeGNeCYbVzIrP0BKwMFyl0IykfgYle2a_-h2I8tFZAGIjWZnDyqCL7yF1q5QkTkti65kAfXFlswUvoo68APvLZ2m4Q6yat0hj1UF9BXgZQs6gdJQNudie5eDRHwdeSXdNUIMwSpFkhpoCKghQmfnp9iqU77W8CWyYHAdsgl0WRHiDzVeH66xbgln-70K4fhL7WteiZCWvIVzvmKPgKoZcORZ0dZu_vYrkkoCNJdxLj4657A4O1bmhnQTC-YpCxOHCqiytXQivKwA
+   - `BOT_TOKEN` :  5570570672:AAGEs9LiO66U30enburgJG5MVXu5tAZAvx0
+   - `SUDO_USERS` : 156085021
 
 
 
